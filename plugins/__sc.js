@@ -1,5 +1,5 @@
 let handler = (t) => {
-    t.reply('*YOU WILL GET THE BOT SCRIPT ON MY YOUTUBE DRIPS OFC*')
+    t.reply('*It Has No script, its Just For Me To Do it Myself*')
 }
 
 handler.command = ['sc']
