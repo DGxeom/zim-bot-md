@@ -1,5 +1,5 @@
-let handler =  m => m.reply(` ❰𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖 2 𝗚𝗥𝗨𝗣❱
-https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA
+let handler =  m => m.reply(` ❰𝗞𝗔𝗠𝗜𝗦 𝗕𝗢𝗧 𝗚𝗥𝗢𝗨𝗣❱
+https://chat.whatsapp.com/Gyf1AAxhBA1CW3s3KTRs7F
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donate']
 handler.tags = ['info']
