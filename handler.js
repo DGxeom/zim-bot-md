@@ -704,7 +704,7 @@ global.dfail = (type, m, conn) => {
         private: 'This command can only be used in Private!',
         admin: 'Thi command is only for *Admin* grup!',
         botAdmin: 'Give KAMIS BOT  *Adminship* to use this command!',
-        unreg: 'Please register to Kamis bot to use this feature by typing:\n\n*#reg name.age*\n\nExample: *#reg Drips.16*',
+        unreg: 'Please register to Kamis bot to use this feature by typing:\n\n*#reg name.age*\n\nExample: *#reg Kami.18*',
         restrict: 'This feature *disable*!'
     }[type]
     if (msg) return m.reply(msg)
