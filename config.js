@@ -3,12 +3,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['40373807823', 'Cute Kami 🐼💜', true],
+  ['923474187615', 'HEART HACKER❤️💫', true],
   //['6281227144597']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['40373807823'] // Premium user has unlimited limit
+global.prems = ['923474187615'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -21,7 +21,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Made By'
-global.author = 'Kami 🐼💜'
+global.author = 'Asif❤️'💫
 
 global.multiplier = 69 // The higher, The harder levelup
 
