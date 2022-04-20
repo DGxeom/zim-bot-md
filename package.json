@@ -1,5 +1,5 @@
 {
-    "name": "KAMI'S BOT",
+    "name": "ALTON BOT",
     "version": "7.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/zim-bot",
     "author": {
-        "name": "KAMIS BOT INC 2022"
+        "name": "DARK BOT INC 2022"
     },
     "repository": {
         "type": "git",
