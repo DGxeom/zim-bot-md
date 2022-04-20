@@ -19,7 +19,7 @@ ${teks}
 • 🧬Previous Level : ${before}
 • 🧬New Levels : ${user.level}
 • At what hour : ${new Date().toLocaleString('id-ID', { timeZone: 'Africa/Harare' })}
-*_The more you interact with Kamis bots, the higher your level_*
+*_The more you interact with Alton bots, the higher your level_*
 `.trim()
         try {
             const img = await levelup(teks, user.level)
