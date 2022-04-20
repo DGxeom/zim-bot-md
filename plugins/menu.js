@@ -2,7 +2,7 @@ import { promises } from 'fs'
 import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
 let tags = {
-  'main': 𝗔𝗟𝗧𝗢𝗡 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡',
+  'main': '𝗔𝗟𝗧𝗢𝗡 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡',
   'game': '𝗚𝗔𝗠𝗘',
   'rpg': '𝗥𝗣𝗚 𝗚𝗔𝗠𝗘𝗦',
   'xp': '𝗫𝗣 & 𝗟𝗜𝗠𝗜𝗧',
